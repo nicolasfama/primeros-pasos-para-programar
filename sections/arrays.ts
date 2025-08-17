@@ -3,8 +3,8 @@
 printMultiplicationTable(3,5);*/
 
 
-let employees: string[] = ["Alice", "Bob", "Charlie"];
-let salaries: number[] = [1500, 2400, 3200];
+export let employees: string[] = ["Alice", "Bob", "Charlie"];
+export let salaries: number[] = [1500, 2400, 3200];
 //let flowers: string[] = ['Rosa', 'Girasole','Lirio', 'Tulipán'];
 
 
